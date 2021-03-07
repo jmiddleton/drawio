@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T00:29:19.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="EeXjQls7j7qgMMAXZ_4k" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T01:53:50.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="YH7DJQuwpWkoSklzMEyj" version="14.4.3" type="github">
   <diagram id="gjvZ4gOpl2NELNdTMGmE" name="Page-1">
     <mxGraphModel dx="1424" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,9 +178,6 @@
         <mxCell id="ilwAuIT0HePhSRycfTEz-5" value="Preconsent&lt;br&gt;Users" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;imageBackground=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="446" y="783.36" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ilwAuIT0HePhSRycfTEz-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ilwAuIT0HePhSRycfTEz-13" target="ilwAuIT0HePhSRycfTEz-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-7" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="203" y="846.01" width="20" height="52.99" as="geometry" />
         </mxCell>
@@ -284,13 +281,13 @@
             <mxPoint x="472.5" y="1090.5093421052632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ilwAuIT0HePhSRycfTEz-43" value="Update&lt;br&gt;Account Details&lt;br&gt;Nickname" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
+        <mxCell id="ilwAuIT0HePhSRycfTEz-43" value="Update&lt;br&gt;Nickname&lt;br&gt;TODO: Update all" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="306" y="921.3000000000002" width="45" height="39.71" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ilwAuIT0HePhSRycfTEz-46" target="ilwAuIT0HePhSRycfTEz-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ilwAuIT0HePhSRycfTEz-46" value="Update&lt;br&gt;Account Status" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
+        <mxCell id="ilwAuIT0HePhSRycfTEz-46" value="TODO: Update&lt;br&gt;Account Status" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="305.5" y="1027" width="45" height="39.71" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-47" value="Consents" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" parent="1" vertex="1">
@@ -311,8 +308,11 @@
         <mxCell id="ilwAuIT0HePhSRycfTEz-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ilwAuIT0HePhSRycfTEz-54" target="ilwAuIT0HePhSRycfTEz-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6L1NpxQUQZA7t35eqBWQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ilwAuIT0HePhSRycfTEz-54" target="ilwAuIT0HePhSRycfTEz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-54" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" parent="1" vertex="1">
-          <mxGeometry x="27.010000000000005" y="804.01" width="37.99" height="37.99" as="geometry" />
+          <mxGeometry x="27.010000000000005" y="788.01" width="37.99" height="37.99" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ilwAuIT0HePhSRycfTEz-56" target="ilwAuIT0HePhSRycfTEz-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
