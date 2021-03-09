@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T02:53:47.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="yhCUg41ddtjDu2LEQAEg" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T00:12:06.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="KqLyUHJBiKzFC0x13Azx" version="14.4.3" type="github">
   <diagram id="gjvZ4gOpl2NELNdTMGmE" name="Page-1">
-    <mxGraphModel dx="1424" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1410" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,12 +116,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoWtU8M--wBZisnhyXfO-53" value="Update&lt;br&gt;Customer Lookup" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
-          <mxGeometry x="359" y="460.63" width="45" height="39.71" as="geometry" />
+          <mxGeometry x="359.25" y="380" width="45" height="39.71" as="geometry" />
         </mxCell>
         <mxCell id="OoWtU8M--wBZisnhyXfO-54" value="Customer&lt;br&gt;Lookup" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" parent="1" vertex="1">
-          <mxGeometry x="530" y="457.99" width="45" height="45" as="geometry" />
+          <mxGeometry x="530.25" y="377.36" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="OoWtU8M--wBZisnhyXfO-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OoWtU8M--wBZisnhyXfO-62" target="OoWtU8M--wBZisnhyXfO-53" edge="1">
+        <mxCell id="OoWtU8M--wBZisnhyXfO-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.742;exitY=0.115;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OoWtU8M--wBZisnhyXfO-45" target="OoWtU8M--wBZisnhyXfO-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OoWtU8M--wBZisnhyXfO-56" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -155,10 +155,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P0eFKt6O6_u8Fyc4BtCG-1" value="Update&lt;br&gt;Customer Eligibility" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
-          <mxGeometry x="359" y="571.64" width="45" height="39.71" as="geometry" />
+          <mxGeometry x="359.75" y="518.14" width="45" height="39.71" as="geometry" />
         </mxCell>
         <mxCell id="P0eFKt6O6_u8Fyc4BtCG-2" value="Customer&lt;br&gt;Eligibility" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" parent="1" vertex="1">
-          <mxGeometry x="530" y="569" width="45" height="45" as="geometry" />
+          <mxGeometry x="530.75" y="515.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P0eFKt6O6_u8Fyc4BtCG-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="OoWtU8M--wBZisnhyXfO-61" target="P0eFKt6O6_u8Fyc4BtCG-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -167,13 +167,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-2" value="Customers&lt;br&gt;Container" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" parent="1" vertex="1">
-          <mxGeometry x="217" y="744" width="45" height="45" as="geometry" />
+          <mxGeometry x="215" y="720" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-5" value="Preconsent&lt;br&gt;Users" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;imageBackground=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="445.25" y="844.71" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-7" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="288" y="748.01" width="20" height="52.99" as="geometry" />
+          <mxGeometry x="286" y="724.01" width="20" height="52.99" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-8" value="" style="group" parent="ilwAuIT0HePhSRycfTEz-7" vertex="1" connectable="0">
           <mxGeometry x="2.25" width="15.5" height="36.96976744186047" as="geometry" />
@@ -202,12 +202,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-18" value="Update&lt;br&gt;Customer Lookup" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
-          <mxGeometry x="585.25" y="801" width="45" height="39.71" as="geometry" />
+          <mxGeometry x="357" y="724.64" width="45" height="39.71" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-19" value="Customer&lt;br&gt;Lookup" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" parent="1" vertex="1">
-          <mxGeometry x="715.25" y="798.36" width="45" height="45" as="geometry" />
+          <mxGeometry x="443.25" y="721.99" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ilwAuIT0HePhSRycfTEz-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ilwAuIT0HePhSRycfTEz-27" target="ilwAuIT0HePhSRycfTEz-18" edge="1">
+        <mxCell id="ilwAuIT0HePhSRycfTEz-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ilwAuIT0HePhSRycfTEz-13" target="ilwAuIT0HePhSRycfTEz-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-21" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -408,7 +408,7 @@
           <mxGeometry x="709.25" y="1470.0000000000002" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="6L1NpxQUQZA7t35eqBWQ-96" value="&lt;b style=&quot;font-size: 20px ; background-color: rgb(102 , 102 , 255)&quot;&gt;1&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#6666FF;" vertex="1" parent="1">
-          <mxGeometry x="488.75" y="810.71" width="30" height="30" as="geometry" />
+          <mxGeometry x="537.5" y="844.71" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6L1NpxQUQZA7t35eqBWQ-97" value="&lt;b style=&quot;font-size: 20px ; background-color: rgb(102 , 102 , 255)&quot;&gt;1&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fillColor=#6666FF;" vertex="1" parent="1">
           <mxGeometry x="759.25" y="1476.86" width="30" height="30" as="geometry" />
