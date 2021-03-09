@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T00:12:06.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="KqLyUHJBiKzFC0x13Azx" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T00:14:58.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="D-eBNBimja6wv8kYRe-v" version="14.4.3" type="github">
   <diagram id="gjvZ4gOpl2NELNdTMGmE" name="Page-1">
     <mxGraphModel dx="1410" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,13 +202,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-18" value="Update&lt;br&gt;Customer Lookup" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
-          <mxGeometry x="357" y="724.64" width="45" height="39.71" as="geometry" />
+          <mxGeometry x="359" y="730.65" width="45" height="39.71" as="geometry" />
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-19" value="Customer&lt;br&gt;Lookup" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" parent="1" vertex="1">
-          <mxGeometry x="443.25" y="721.99" width="45" height="45" as="geometry" />
+          <mxGeometry x="445.25" y="728" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ilwAuIT0HePhSRycfTEz-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ilwAuIT0HePhSRycfTEz-13" target="ilwAuIT0HePhSRycfTEz-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ilwAuIT0HePhSRycfTEz-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.336;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ilwAuIT0HePhSRycfTEz-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="296" y="744" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ilwAuIT0HePhSRycfTEz-21" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="510.25" y="846.7" width="20" height="57.65" as="geometry" />
