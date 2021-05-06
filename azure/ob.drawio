@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T15:14:09.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="wLGCpHHy1MCBYb0pjdx5" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T15:15:08.073Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="UQTWl5IoOlnH3uQ_UWq9" version="14.6.10" type="github">
   <diagram id="gjvZ4gOpl2NELNdTMGmE" name="Page-1">
     <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,6 +40,11 @@
             <Array as="points">
               <mxPoint x="140" y="100" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SULVt1aDSewzh9qNDvrG-53" value="sharing &lt;br&gt;activity logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SULVt1aDSewzh9qNDvrG-50">
+          <mxGeometry x="0.503" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oMFMiWhIfmU4jBjoLOnd-1" value="API&lt;br&gt;Management" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/integration/API_Management_Services.svg;" parent="1" vertex="1">
@@ -219,6 +224,11 @@
             <Array as="points">
               <mxPoint x="675" y="52" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SULVt1aDSewzh9qNDvrG-54" value="arrangement&lt;br&gt;events" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SULVt1aDSewzh9qNDvrG-42">
+          <mxGeometry x="-0.0784" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SULVt1aDSewzh9qNDvrG-36" value="ForgeRock" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_directory" vertex="1" parent="1">
