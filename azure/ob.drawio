@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T15:17:23.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="aO7YmoeXjTOrPg_acJkI" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T15:17:50.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="q0Fjj6aVscM7QeBRjYXE" version="14.6.10" type="github">
   <diagram id="gjvZ4gOpl2NELNdTMGmE" name="Page-1">
     <mxGraphModel dx="1426" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oMFMiWhIfmU4jBjoLOnd-52" value="Pega" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/azure_stack/Azure_Stack.svg;" parent="1" vertex="1">
-          <mxGeometry x="1006.8" y="599" width="48.44" height="50" as="geometry" />
+          <mxGeometry x="1006.8" y="587.14" width="48.44" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SULVt1aDSewzh9qNDvrG-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oMFMiWhIfmU4jBjoLOnd-55" target="SULVt1aDSewzh9qNDvrG-14">
           <mxGeometry relative="1" as="geometry" />
